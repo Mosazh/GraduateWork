@@ -1,0 +1,32 @@
+{
+    "id": 1679897131183,
+    "params": {
+        "EnRelay2ChangeStateRemaining": 0,
+        "EnRelay1ChangeStateRemaining": 0,
+        "Temperature": 12,
+        "LOA": 2,
+        "LTA": 2,
+        "BoxSwitch": 0,
+        "CRLOsta": 0,
+        "CRLTsta": 0,
+        "ActivePower_1": 22,
+        "ActivePower_2": 22,
+        "ActiveEnergy_1": 3,
+        "ActiveEnergy_2": 1,
+        "PowerFactor_1": 0.88,
+        "PowerFactor_2": 0.87,
+        "CO2Emissions_1": 2,
+        "CO2Emissions_2": 0.2,
+        "EMStem_1": 22,
+        "EMStem_2": 31,
+        "Frequency_1": 0,
+        "Frequency_2": 0,
+        "Humidity": 89,
+        "LOV": 220,
+        "LTV": 220,
+        "Relay1ChangeStateRemainingTime": "1803874332000",
+        "Relay2ChangeStateRemainingTime": "1803874332000"
+    },
+    "version": "1.0",
+    "method": "thing.event.property.post"
+}
